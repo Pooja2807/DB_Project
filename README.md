@@ -1,0 +1,2 @@
+# DB_Project
+The project is based on prediction of Diabetes. There are actually two types of diabetes, namely Type1 and Type2 . The type 2 diabetes are normally called as diabetes mallitus. We consider the Mallitus here. Here, in this project we have used Logistic Regression algorithm. By using the data of the peoplewith and without diabetes, a dataset has been build. We use that dataset to classify the people who are in the risk of getting diabetes.
